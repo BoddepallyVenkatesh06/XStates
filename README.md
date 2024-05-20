@@ -4,16 +4,16 @@ XStates is a state management library designed to simplify the management of com
 
 ## Table of Contents 📚
 
-- [Introduction🚀](#introduction)
-- [Features🛠️](#features)
-- [Screenshot📷](#screenshot)
-- [Getting Started🎯](#getting-started)
-- [Prerequisites📋](#prerequisites)
-- [Installation⚙️](#installation)
-- [Usage📈](#usage)
-- [API Documentation🔌](#api-documentation)
-- [Contributing❤️](#contributing)
-- [License📝](#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction🚀
 
